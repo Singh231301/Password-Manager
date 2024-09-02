@@ -23,3 +23,4 @@ You can trust Password Guard because it has no internet access, ensuring that yo
 **Important Notes**:
 - If the master passcode is lost, the stored data cannot be recovered.
 
+DEMO VIDEO: https://drive.google.com/file/d/1z9w5_wNUVQd25u9_C5x96aTHjJwxXyyJ/view?usp=sharing
